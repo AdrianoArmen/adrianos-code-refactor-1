@@ -7,7 +7,7 @@ Refactoring Skills / Best Practice Coding
 
 * GitHub Repository [GitHub repository link](https://github.com/AdrianoArmen/adrianos-code-refactor) 
 
-* Website Deployed [Website Deploy link](https://github.com/AdrianoArmen/adrianos-code-refactor) 
+* Website Deployed [Website Deploy link](https://adrianoarmen.github.io/adrianos-code-refactor/) 
 
 ## User Story
 
