@@ -4,9 +4,13 @@
     margin: 0;
 }
 
+/* all elements inside */
+
 body {
     background-color: #d9dcd6;
 }
+
+/* contains navigation bar and main heading */
 
 .header {
     padding: 20px;
@@ -25,6 +29,8 @@ body {
 }
 
 /* div element replaced by nav */
+
+/* navigation bar with functional links */
 
 .header nav {
     padding-top: 15px;
@@ -52,6 +58,8 @@ p {
     font-size: 16px;
 }
 
+/* main image  */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -60,6 +68,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* main content area child elements are floating left then right to provide style */
 
 .content {
     width: 75%;
@@ -76,6 +86,8 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/* first article style */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -95,6 +107,8 @@ p {
     font-size: 36px;
 }
 
+/* second article style */
+
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -113,7 +127,8 @@ p {
     font-size: 36px;
 }
 
-v .social-media-marketing {
+/* third article style */
+.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -131,6 +146,7 @@ v .social-media-marketing {
     font-size: 36px;
 }
 
+/* main aside element floating right */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -142,6 +158,7 @@ v .social-media-marketing {
     background-color: #2589bd;
 }
 
+/* first section in aside */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -158,6 +175,7 @@ v .social-media-marketing {
     max-width: 150px;
 }
 
+/* second section in aside */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -174,6 +192,7 @@ v .social-media-marketing {
     max-width: 150px;
 }
 
+/* third section in aside */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -190,6 +209,7 @@ v .social-media-marketing {
     max-width: 150px;
 }
 
+/* footer element */
 .footer {
     padding: 30px;
     clear: both;
