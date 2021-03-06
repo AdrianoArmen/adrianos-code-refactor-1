@@ -1,4 +1,4 @@
-# adrianos-code-refactor
+# adrianos-code-refactor 
 Homework 1 - Code Refactor
 
 Refactoring Skills / Best Practice Coding
@@ -38,3 +38,38 @@ THEN I find a concise, descriptive title
 Instructions Mockup on how the website should look:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+
+
+## Corrections Completed
+
+1. Semantic HTML elements
+
+2. Logical structure
+
+3. Alt attribute assigned to images
+
+4. Headings sequential order
+
+5. Concise descriptive title
+
+6. Links functionality
+
+7. Consolidating CSS selectors
+
+8. CSS semantic order
+
+9. Descriptive comments on HTML and CSS files
+
+## Additional Corrections
+
+* **Scout Rule**&mdash;always leave the code a little cleaner than when you found it.
+* Minor syntax errors fixed
+* Procured best practices coding 
+
+
+
+## Final Correction Screenshot
+
+HTML & CSS files commented and consolidated:
+
+![Final screenshot of Visual Studio Code with HTML and CSS files open, commented and consilidated](./assets/final-screenshot.png)
