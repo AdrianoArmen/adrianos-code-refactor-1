@@ -73,3 +73,7 @@ Instructions Mockup on how the website should look:
 HTML & CSS files commented and consolidated:
 
 ![Final screenshot of Visual Studio Code with HTML and CSS files open, commented and consilidated](./assets/final-screenshot.png)
+
+### Credits
+
+Done by Adriano Armendaris
