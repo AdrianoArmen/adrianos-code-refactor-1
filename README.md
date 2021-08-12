@@ -1,4 +1,6 @@
 # adrianos-code-refactor 
+![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)
+
 Homework 1 - Code Refactor
 
 Refactoring Skills / Best Practice Coding HTML5 & CSS
@@ -55,8 +57,11 @@ HTML & CSS files commented and consolidated:
 ![Final screenshot of Visual Studio Code with HTML and CSS files open, commented and consilidated](./assets/final-screenshot.png)
 <<<<<<< HEAD
 
-### Credits
+## License 📄
 
-Done by Adriano Armendaris
-=======
->>>>>>> b503cb04c4d09a22d852e6e2ab8c0f2cd679130d
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+---
+
+© 2021 Adriano.
+
