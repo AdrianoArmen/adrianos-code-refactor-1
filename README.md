@@ -7,9 +7,9 @@ Refactoring Skills / Best Practice Coding HTML5 & CSS
 
 ## HOMEWORK LINKS
 
-* GitHub Repository [GitHub repository link](https://github.com/AdrianoArmen/adrianos-code-refactor) 
+* GitHub Repository [GitHub repository link](https://github.com/AdrianoArmen/adrianos-code-refactor-1) 
 
-* Website Deployed [Website Deploy link](https://adrianoarmen.github.io/adrianos-code-refactor/) 
+* Website Deployed [Website Deploy link](https://adrianoarmen.github.io/adrianos-code-refactor-1/) 
 
 ## Description
 
