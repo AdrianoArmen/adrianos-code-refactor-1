@@ -5,24 +5,24 @@ Homework 1 - Code Refactor
 
 Refactoring Skills / Best Practice Coding HTML5 & CSS
 
-## HOMEWORK LINKS
+## HOMEWORK LINKS 🛠️
 
 * GitHub Repository [GitHub repository link](https://github.com/AdrianoArmen/adrianos-code-refactor-1) 
 
 * Website Deployed [Website Deploy link](https://adrianoarmen.github.io/adrianos-code-refactor-1/) 
 
-## Description
+## Description 📋
 
 This code refactoring exercise tested my syntax knowledge on the basic structure of any website. Focusing on code best practices and the "Scout's Route" to identify key spots in which our HTLM file or our style sheet might improve as far as being easy to read and understand by fellow developers and other people involved in the project. 
 
-## Screenshots
+## Screenshots 🛠️
 
 Instructions Mockup on how the website should look:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/01-html-css-git-homework-demo.png)
 
 
-## Corrections Completed
+## Corrections Completed 🔧
 
 1. Semantic HTML elements
 
@@ -50,12 +50,12 @@ Instructions Mockup on how the website should look:
 
 
 
-## Final Correction Screenshot
+## Final Correction Screenshot 🛠️
 
 HTML & CSS files commented and consolidated:
 
 ![Final screenshot of Visual Studio Code with HTML and CSS files open, commented and consilidated](./assets/final-screenshot.png)
-<<<<<<< HEAD
+
 
 ## License 📄
 
